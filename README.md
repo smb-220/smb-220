@@ -5,19 +5,6 @@
 <!--About-->
 </br>
 
-<!-- GitHub Readme Streak Stats-->
- 🔥 Streak stats
-
-
-<p align="center">
-  <a href="https://github.com/smb-220">
-    <img  alt="Shovan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smb-220&theme=highcontrast&hide_border=true"/>
-  </a>
-  
-</p>
-
-</br>
-
 <!--Skills-->
 
 ## 🚀 Languages and Tools:
